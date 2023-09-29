@@ -37,7 +37,7 @@ const u8 G_aau8AppShortNames[NUMBER_APPLICATIONS][MAX_TASK_NAME_SIZE] =
 Global variable definitions with scope limited to this local application.
 Variable names shall start with "Main_" and be declared as static.
 ***********************************************************************************************************************/
-
+//forked 2023-09-28 by Petr Dubovsky
 
 /*!---------------------------------------------------------------------------------------------------------------------
 @fn void main(void)
